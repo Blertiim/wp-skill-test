@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!README.md
+
+!/themes/
+/themes/*
+!/themes/bm-starter/
+
+!/plugins/
+/plugins/*
+!/plugins/bm-projects/
